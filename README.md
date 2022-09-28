@@ -1,7 +1,6 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**tarikozturk-05/tarikozturk-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tarikozturk-05
 - :telescope: I’m currently working on Html,JavaScript,CSS,Sass,Bootstrap,Computal Thinking...
 - :seedling: I’m currently learning fronted end backend  ...
 - :dancers: I’m looking to collaborate on ...
