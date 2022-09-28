@@ -46,3 +46,6 @@ tarikozturk-05
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
+
+###🌈ME-CODE-ANKA🌈
+     ヾ(≧▽≦*)o
