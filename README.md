@@ -5,7 +5,7 @@ tarikozturk-05
 - :seedling: I’m currently learning fronted end backend  ...
 - :dancers: I’m looking to collaborate on ...
 - :speech_balloon:  Ask me about  Html,CSS and JavaScript
-- :mailbox: How to reach me: [LinkedIn](l) || a.tarik2005@gmail.com
+- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/tar%C4%B1k-%C3%B6zt%C3%BCrk-2aa8aa251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzZSEqI1uRAexCKT%2FjD%2Bqpw%3D%3D) || a.tarik2005@gmail.com
 - ![](https://komarev.com/ghpvc/?username=tarikozturk-05&blue)
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tarikozturk-05&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
