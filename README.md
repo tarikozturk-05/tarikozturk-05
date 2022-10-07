@@ -1,12 +1,14 @@
  Hi there 👋
 
 tarikozturk-05
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 - :telescope: I’m currently working on Html,JavaScript,CSS,Sass,Bootstrap,Computal Thinking...
 - :seedling: I’m currently learning fronted end backend  ...
 - :dancers: I’m looking to collaborate on ...
 - :speech_balloon:  Ask me about  Html,CSS and JavaScript
 - :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/tar%C4%B1k-%C3%B6zt%C3%BCrk-2aa8aa251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzZSEqI1uRAexCKT%2FjD%2Bqpw%3D%3D) || a.tarik2005@gmail.com
 - ![](https://komarev.com/ghpvc/?username=tarikozturk-05&blue)
+ 
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tarikozturk-05&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ## Languages & Tools  :hammer_and_wrench:
@@ -21,10 +23,11 @@ tarikozturk-05
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="40" alt="jira "  /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="40" alt="slack " /></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode"  /></a>
- 
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 </p>
+
 ## Github Stats :computer:
 <div align="center">
     <table>
@@ -41,7 +44,7 @@ tarikozturk-05
      <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tarikozturk-05&theme=flag-india&show_icons=true" >
 </div>
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 
