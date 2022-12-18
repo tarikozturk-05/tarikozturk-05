@@ -50,6 +50,6 @@ tarikozturk-05
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-🌈ME-CODE-ANKA🌈
-     (●'◡'●)
+🌈CODE-ANKA🌈
+   (●'◡'●)
      
