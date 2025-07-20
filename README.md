@@ -1,7 +1,7 @@
  Hi there 👋
 
 tarikozturk-05
- <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+ <img src="https://c.tenor.com/OyKMCADCZpUAAAAd/tenor.gif" align="right">
 - :telescope: I’m currently working on Html,JavaScript,CSS,Sass,Bootstrap,Computal Thinking...
 - :seedling: I’m currently learning fronted end backend  ...
 - :dancers: I’m looking to collaborate on ...
@@ -49,7 +49,8 @@ tarikozturk-05
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="left" src="https://c.tenor.com/spyvCayNsv0AAAAd/tenor.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3I4_xWUlHIEAAAAd/tenor.gif">
 🌈CODE-ANKA🌈
    (●'◡'●)
      
