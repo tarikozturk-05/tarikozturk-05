@@ -25,14 +25,13 @@ A.Tarik Öztürk
      </tr>
     </table>
     </div>
-     <div align="center">
-
-</div>
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
 <img hight="400" width="500" alt="GIF" align="left" src="https://c.tenor.com/spyvCayNsv0AAAAd/tenor.gif" width="380px">
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3I4_xWUlHIEAAAAd/tenor.gif" width="380px">
-🌈CODE-ANKA🌈
+<p>
+ 🌈CODE-ANKA🌈
    (●'◡'●)
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
