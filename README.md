@@ -27,8 +27,8 @@ A.Tarik Öztürk
     </div>
 
 
-<img hight="400" width="500" alt="GIF" align="left" src="https://c.tenor.com/spyvCayNsv0AAAAd/tenor.gif" width="380px">
-<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3I4_xWUlHIEAAAAd/tenor.gif" width="380px">
+<img alt="GIF" align="left" src="https://c.tenor.com/spyvCayNsv0AAAAd/tenor.gif" width="380px">
+<img alt="GIF" align="right" src="https://c.tenor.com/3I4_xWUlHIEAAAAd/tenor.gif" width="380px">
 <p>
  🌈CODE-ANKA🌈
    (●'◡'●)
