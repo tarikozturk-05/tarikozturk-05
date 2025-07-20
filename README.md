@@ -5,7 +5,7 @@ tarikozturk-05
 - :telescope: I’m currently working on Html,JavaScript,CSS,Sass,Bootstrap,Computal Thinking...
 - :seedling: I’m currently learning fronted end backend  ...
 - :dancers: I’m looking to collaborate on ...
-- :speech_balloon:  Ask me about  Html,CSS and JavaScript
+- :speech_balloon:  Ask me about  Html,CSS and JavaScript, React
 - :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/tar%C4%B1k-%C3%B6zt%C3%BCrk-2aa8aa251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzZSEqI1uRAexCKT%2FjD%2Bqpw%3D%3D) || a.tarik2005@gmail.com
 - ![](https://komarev.com/ghpvc/?username=tarikozturk-05&blue)
  
@@ -49,8 +49,8 @@ tarikozturk-05
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
-<img hight="400" width="500" alt="GIF" align="left" src="https://c.tenor.com/spyvCayNsv0AAAAd/tenor.gif">
-<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3I4_xWUlHIEAAAAd/tenor.gif">
+<img hight="400" width="500" alt="GIF" align="left" src="https://c.tenor.com/spyvCayNsv0AAAAd/tenor.gif" width="380px">
+<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3I4_xWUlHIEAAAAd/tenor.gif" width="380px">
 🌈CODE-ANKA🌈
    (●'◡'●)
      
